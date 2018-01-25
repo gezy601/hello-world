@@ -1,0 +1,6 @@
+diff a/helloworld.php b/helloworld.php	(rejected hunks)
+@@ -0,3 +1,4 @@
++<?php
+ echo 'Hello world!';
+ echo date('Y-m-d H:i:s', time());
+ ?>
